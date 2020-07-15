@@ -13,5 +13,4 @@ import { Transport, ClientsModule } from '@nestjs/microservices';
   providers: [AppService],
 })
 export class AppModule {
-  
 }
